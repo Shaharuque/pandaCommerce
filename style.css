@@ -10,3 +10,22 @@ body{
     height: 100px;
     
 }
+/* customize classes for styling */
+.panda-background{
+    background-color: #fceae8;
+}
+.catagoryBackground-1{
+    background-color: #ffa500;
+}
+.catagoryBackground-2{
+    background-color: #da70d6;
+}
+.catagoryBackground-3{
+    background-color: #0000ff;
+}
+.button-color{
+    background-color: #ff136f;
+}
+.text-color{
+    background-color: #ff136f;
+}
